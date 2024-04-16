@@ -16,4 +16,7 @@ Cx, Cy = 3,3
 Area = Ax*By - Ay*Bx + Bx*Cy - By*Cx + Cx*Ay - Cy*Ax
 Area = Area / 2
 
+if Area < 0:
+    Area = Area * -1
+
 print("Area: " + str(Area))
