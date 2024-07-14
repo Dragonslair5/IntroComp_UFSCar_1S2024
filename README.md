@@ -33,3 +33,10 @@ Este texto está escrito em [Markdown](https://pt.wikipedia.org/wiki/Markdown).
 ### Aula 5
 
 - Estruturas de Repetição
+
+### Aula 6
+
+- Criando um jogo de adivinhar número
+- Exemplo de import
+- Exemplo de função
+- Exemplo de [arquivo .csv](https://pt.wikipedia.org/wiki/Comma-separated_values)
